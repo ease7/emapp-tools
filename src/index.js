@@ -13,5 +13,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 };
 
 module.exports = {
-  install
+  install,
+  version,
+  Log
 }
